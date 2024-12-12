@@ -1,0 +1,1001 @@
+VendaID,DataVenda,Marca,Modelo,AnoModelo,PrecoVenda,FormaPagamento,ClienteID,VendedorID
+1,2023-02-02,Honda,Fit,2021,142194,À Vista,122,43
+2,2024-05-28,Honda,Fit,2017,94406,Leasing,106,37
+3,2023-01-26,Toyota,Yaris,2015,114383,À Vista,30,38
+4,2023-08-25,Toyota,Yaris,2019,97447,Leasing,35,28
+5,2023-05-16,Ford,Focus,2019,106009,Leasing,144,19
+6,2023-09-28,Ford,Fiesta,2019,148969,Financiamento,214,44
+7,2023-05-29,Honda,Civic,2016,146512,À Vista,16,39
+8,2024-07-18,Chevrolet,S10,2021,86536,Financiamento,15,25
+9,2024-01-30,Ford,Focus,2015,146526,À Vista,167,25
+10,2024-09-07,Honda,CR-V,2015,116728,Financiamento,296,11
+11,2024-09-04,Honda,Fit,2021,144757,Financiamento,224,23
+12,2024-06-21,Hyundai,Elantra,2016,98422,Financiamento,275,45
+13,2023-05-20,Toyota,Yaris,2019,99041,À Vista,242,14
+14,2023-09-05,Chevrolet,Cruze,2016,109943,Leasing,285,39
+15,2023-08-09,Ford,Ranger,2016,94523,Leasing,91,37
+16,2023-10-23,Honda,CR-V,2020,106207,Leasing,200,50
+17,2024-09-26,Chevrolet,Onix,2016,97160,Leasing,18,17
+18,2024-01-25,Chevrolet,S10,2015,149293,Financiamento,6,36
+19,2024-02-28,Chevrolet,Onix,2017,104575,Leasing,23,44
+20,2024-09-19,Ford,Fiesta,2017,98978,Leasing,240,7
+21,2024-06-11,Hyundai,Tucson,2023,147601,Leasing,184,16
+22,2024-01-05,Hyundai,Tucson,2019,140170,À Vista,224,40
+23,2023-02-17,Ford,Focus,2018,132692,Leasing,17,30
+24,2024-01-05,Chevrolet,Cruze,2015,143264,Financiamento,209,24
+25,2023-09-26,Toyota,Hilux,2022,89184,Leasing,90,10
+26,2023-06-29,Ford,Ranger,2021,143637,Leasing,250,26
+27,2024-01-29,Toyota,Hilux,2015,82165,À Vista,172,6
+28,2023-11-19,Honda,Fit,2020,123982,À Vista,7,22
+29,2024-07-07,Chevrolet,S10,2017,140177,Financiamento,242,39
+30,2024-01-15,Chevrolet,Cruze,2023,135508,Financiamento,198,24
+31,2023-03-11,Chevrolet,S10,2022,119555,Leasing,74,16
+32,2024-03-04,Honda,Civic,2022,82696,Financiamento,164,10
+33,2024-10-05,Hyundai,HB20,2022,116155,Financiamento,231,42
+34,2024-04-21,Chevrolet,S10,2017,141981,Financiamento,108,6
+35,2023-04-14,Honda,Fit,2018,88709,Leasing,155,33
+36,2024-01-04,Ford,Focus,2018,90747,À Vista,188,13
+37,2024-09-08,Hyundai,Elantra,2020,103428,À Vista,300,27
+38,2024-10-08,Chevrolet,Cruze,2018,92021,Financiamento,33,10
+39,2024-09-04,Ford,Ranger,2019,105853,À Vista,283,22
+40,2024-03-13,Hyundai,HB20,2017,148334,Leasing,137,50
+41,2024-04-21,Chevrolet,S10,2023,109570,Leasing,275,48
+42,2023-10-16,Toyota,Hilux,2019,117675,À Vista,21,8
+43,2024-09-17,Toyota,Hilux,2018,122238,Financiamento,234,11
+44,2022-12-10,Hyundai,Elantra,2019,86802,Leasing,66,25
+45,2023-06-09,Ford,Fiesta,2017,102613,Financiamento,17,5
+46,2024-04-27,Honda,Fit,2020,87871,Financiamento,252,46
+47,2023-09-10,Chevrolet,Onix,2021,94735,Leasing,50,15
+48,2024-04-23,Toyota,Corolla,2018,97036,À Vista,85,2
+49,2023-08-10,Toyota,Hilux,2020,116452,Leasing,223,6
+50,2023-06-28,Ford,Focus,2019,112415,Leasing,235,18
+51,2023-11-20,Hyundai,Tucson,2022,114279,Leasing,237,48
+52,2024-10-19,Chevrolet,Cruze,2020,136547,À Vista,281,10
+53,2023-07-25,Toyota,Hilux,2023,113070,Leasing,237,30
+54,2024-02-18,Hyundai,HB20,2022,119213,À Vista,150,23
+55,2024-03-01,Hyundai,Elantra,2021,101115,Leasing,55,16
+56,2024-05-23,Toyota,Hilux,2016,91371,Leasing,273,39
+57,2024-01-29,Chevrolet,Cruze,2021,109687,À Vista,201,10
+58,2024-08-13,Chevrolet,Onix,2018,145843,Leasing,243,9
+59,2024-10-13,Chevrolet,Cruze,2022,108335,Leasing,257,25
+60,2024-01-20,Chevrolet,S10,2018,126597,Financiamento,221,42
+61,2024-09-14,Chevrolet,Onix,2019,137538,Financiamento,294,18
+62,2023-02-07,Honda,CR-V,2017,100642,Leasing,74,14
+63,2024-02-24,Honda,CR-V,2019,88177,À Vista,163,38
+64,2023-12-03,Chevrolet,Cruze,2023,146190,Leasing,138,42
+65,2022-12-15,Honda,CR-V,2016,135841,Financiamento,216,25
+66,2023-02-19,Chevrolet,Cruze,2023,110364,Financiamento,295,4
+67,2024-11-10,Hyundai,Tucson,2015,125174,Leasing,289,47
+68,2023-11-20,Honda,CR-V,2021,88940,Leasing,279,47
+69,2024-05-21,Chevrolet,Cruze,2016,131647,À Vista,24,39
+70,2024-07-18,Toyota,Corolla,2021,133161,Leasing,254,29
+71,2024-02-22,Honda,Fit,2020,94174,À Vista,36,38
+72,2024-09-11,Chevrolet,S10,2016,88470,À Vista,4,33
+73,2024-04-07,Honda,CR-V,2018,113457,Leasing,295,4
+74,2024-08-23,Ford,Fiesta,2019,138581,Leasing,228,6
+75,2023-08-31,Chevrolet,S10,2021,146120,Leasing,133,8
+76,2024-08-07,Hyundai,Elantra,2018,129269,Leasing,253,13
+77,2024-07-10,Chevrolet,Onix,2022,102490,À Vista,257,31
+78,2023-05-13,Honda,Civic,2021,91465,À Vista,153,20
+79,2023-11-24,Hyundai,HB20,2023,137552,À Vista,117,14
+80,2024-01-09,Hyundai,HB20,2018,97403,À Vista,246,20
+81,2024-12-08,Honda,Fit,2019,119934,À Vista,300,35
+82,2023-10-23,Chevrolet,Cruze,2017,140662,Leasing,142,20
+83,2023-01-25,Honda,CR-V,2018,84396,Leasing,280,49
+84,2024-08-27,Hyundai,Tucson,2019,144912,Financiamento,53,35
+85,2024-10-26,Toyota,Corolla,2016,120693,À Vista,149,46
+86,2024-02-06,Honda,Fit,2023,85596,Financiamento,33,32
+87,2024-03-23,Honda,Fit,2021,88451,À Vista,28,20
+88,2024-02-13,Chevrolet,Cruze,2018,128816,Leasing,144,9
+89,2022-12-20,Hyundai,Tucson,2015,88237,Leasing,158,23
+90,2024-03-06,Honda,Civic,2023,99973,À Vista,153,38
+91,2023-03-23,Toyota,Hilux,2015,95523,Leasing,238,4
+92,2024-09-21,Ford,Focus,2019,141957,Financiamento,251,43
+93,2024-10-27,Toyota,Yaris,2017,80742,Leasing,252,30
+94,2023-03-31,Ford,Fiesta,2023,138775,Financiamento,213,19
+95,2023-06-26,Hyundai,HB20,2022,112575,À Vista,141,29
+96,2023-10-12,Chevrolet,Onix,2023,142765,À Vista,26,20
+97,2024-09-05,Chevrolet,Onix,2017,139559,À Vista,114,19
+98,2022-12-23,Ford,Focus,2022,89960,Financiamento,19,44
+99,2023-04-29,Toyota,Corolla,2021,123836,À Vista,88,31
+100,2023-09-23,Toyota,Yaris,2022,81197,À Vista,245,11
+101,2023-06-13,Chevrolet,S10,2022,91361,Leasing,125,14
+102,2023-01-29,Toyota,Corolla,2021,103071,Leasing,9,35
+103,2024-06-11,Ford,Fiesta,2015,84670,Financiamento,55,12
+104,2022-12-19,Hyundai,HB20,2019,98026,Financiamento,142,50
+105,2024-02-22,Hyundai,Tucson,2016,114733,À Vista,268,47
+106,2024-04-04,Hyundai,Tucson,2019,101596,Financiamento,98,25
+107,2024-10-19,Toyota,Corolla,2020,85573,À Vista,141,4
+108,2023-08-06,Ford,Fiesta,2023,101350,Financiamento,279,42
+109,2024-01-24,Chevrolet,S10,2022,108778,Leasing,276,3
+110,2023-11-13,Hyundai,Tucson,2021,130493,À Vista,165,17
+111,2023-01-17,Ford,Focus,2017,105842,Financiamento,126,29
+112,2023-12-18,Honda,CR-V,2017,89091,À Vista,265,15
+113,2024-11-15,Honda,Fit,2016,134742,À Vista,62,18
+114,2023-01-20,Hyundai,Tucson,2019,107276,À Vista,190,21
+115,2023-02-08,Toyota,Hilux,2020,100167,À Vista,135,49
+116,2022-12-20,Chevrolet,Cruze,2015,142307,Leasing,150,9
+117,2024-08-28,Hyundai,Tucson,2016,131152,À Vista,29,50
+118,2023-01-27,Honda,Civic,2017,111375,À Vista,20,42
+119,2024-10-21,Chevrolet,Cruze,2017,126248,Leasing,94,44
+120,2024-07-27,Honda,Civic,2020,139043,Financiamento,174,22
+121,2024-10-28,Toyota,Hilux,2022,106788,Financiamento,74,2
+122,2023-12-22,Ford,Fiesta,2020,105021,Leasing,257,23
+123,2024-10-20,Chevrolet,S10,2016,80508,Leasing,22,20
+124,2023-08-31,Hyundai,Elantra,2018,94855,À Vista,156,19
+125,2024-03-12,Honda,CR-V,2019,80604,À Vista,10,23
+126,2023-08-10,Chevrolet,Cruze,2016,136025,À Vista,39,47
+127,2022-12-18,Chevrolet,Onix,2020,105020,Financiamento,193,23
+128,2023-07-17,Chevrolet,Cruze,2021,93600,Leasing,241,4
+129,2023-02-01,Chevrolet,Onix,2018,106520,À Vista,239,6
+130,2023-12-16,Hyundai,Tucson,2021,103466,Leasing,296,23
+131,2023-04-29,Ford,Ranger,2016,110596,Financiamento,109,33
+132,2024-08-29,Toyota,Hilux,2016,146311,Financiamento,113,47
+133,2023-04-19,Honda,Fit,2016,80248,Financiamento,265,37
+134,2023-07-16,Ford,Fiesta,2023,137158,Financiamento,183,31
+135,2024-09-25,Chevrolet,Onix,2020,96600,À Vista,231,16
+136,2022-12-12,Hyundai,Elantra,2023,143856,Financiamento,131,47
+137,2023-09-13,Toyota,Hilux,2018,135598,À Vista,136,42
+138,2023-02-28,Ford,Focus,2015,109605,Leasing,258,5
+139,2024-02-12,Toyota,Hilux,2019,139346,À Vista,297,28
+140,2024-10-03,Hyundai,Tucson,2021,105748,Leasing,294,14
+141,2024-08-05,Honda,Fit,2015,127245,Financiamento,101,15
+142,2024-02-09,Ford,Focus,2023,109792,Leasing,67,6
+143,2023-10-22,Chevrolet,S10,2020,145710,Financiamento,119,50
+144,2023-10-20,Honda,Civic,2016,80504,Leasing,190,41
+145,2023-08-26,Chevrolet,Onix,2023,90838,Financiamento,169,1
+146,2023-12-12,Toyota,Hilux,2016,130532,Financiamento,197,2
+147,2023-07-11,Ford,Focus,2022,106959,Financiamento,202,7
+148,2023-12-06,Honda,CR-V,2018,94127,À Vista,213,17
+149,2023-05-28,Chevrolet,S10,2017,80886,Financiamento,231,34
+150,2024-05-23,Honda,CR-V,2018,105534,À Vista,224,12
+151,2023-04-11,Honda,Civic,2022,148536,Financiamento,249,50
+152,2024-10-07,Hyundai,Elantra,2018,140215,À Vista,40,25
+153,2023-11-24,Hyundai,Elantra,2023,129698,À Vista,288,7
+154,2024-11-25,Honda,CR-V,2017,109431,Leasing,70,14
+155,2024-09-19,Honda,CR-V,2015,115740,Leasing,67,15
+156,2024-08-04,Honda,Civic,2022,125276,Financiamento,232,45
+157,2023-03-23,Ford,Focus,2022,93332,Leasing,171,45
+158,2024-03-02,Ford,Fiesta,2016,136438,Financiamento,106,16
+159,2024-03-07,Hyundai,Elantra,2019,82702,Leasing,78,29
+160,2023-02-25,Chevrolet,S10,2017,108154,À Vista,184,46
+161,2023-05-21,Honda,CR-V,2018,95566,Financiamento,20,48
+162,2024-05-22,Toyota,Hilux,2015,108946,À Vista,83,12
+163,2024-08-31,Ford,Ranger,2018,80497,Leasing,140,43
+164,2023-07-19,Chevrolet,S10,2023,85584,Financiamento,217,13
+165,2023-02-18,Chevrolet,Cruze,2019,127125,Leasing,283,18
+166,2024-08-08,Ford,Fiesta,2016,104287,Leasing,139,11
+167,2023-07-29,Chevrolet,Onix,2016,98991,Financiamento,5,11
+168,2024-09-10,Honda,Fit,2022,130910,Leasing,248,50
+169,2023-04-12,Honda,Civic,2019,130276,Leasing,167,44
+170,2023-12-03,Ford,Ranger,2023,84565,Leasing,239,1
+171,2024-07-11,Hyundai,Elantra,2021,123261,Financiamento,163,29
+172,2023-06-09,Toyota,Corolla,2023,94437,Leasing,46,16
+173,2024-12-07,Chevrolet,Onix,2015,131345,À Vista,175,18
+174,2023-03-08,Chevrolet,Onix,2021,135013,Financiamento,272,28
+175,2023-12-29,Toyota,Hilux,2019,119713,Financiamento,14,26
+176,2024-09-13,Ford,Focus,2015,101515,À Vista,71,20
+177,2023-12-27,Ford,Fiesta,2017,135744,Financiamento,50,42
+178,2024-04-09,Ford,Fiesta,2022,117332,Leasing,48,34
+179,2024-01-02,Toyota,Hilux,2018,134573,À Vista,118,27
+180,2024-11-30,Toyota,Corolla,2019,138362,À Vista,8,15
+181,2024-03-03,Chevrolet,Onix,2019,86120,À Vista,250,18
+182,2024-02-15,Ford,Focus,2023,102551,À Vista,3,24
+183,2024-05-02,Chevrolet,Cruze,2017,112617,Leasing,230,40
+184,2023-10-22,Toyota,Corolla,2022,133288,Leasing,77,50
+185,2023-12-19,Ford,Focus,2023,145387,À Vista,271,35
+186,2024-11-21,Chevrolet,Onix,2019,130870,Leasing,294,40
+187,2024-07-02,Toyota,Yaris,2016,104124,Leasing,12,49
+188,2024-07-09,Hyundai,HB20,2019,105563,Leasing,48,36
+189,2024-01-03,Chevrolet,S10,2015,107060,À Vista,186,44
+190,2024-01-22,Honda,Fit,2016,123222,Leasing,181,26
+191,2023-01-25,Honda,Fit,2015,125125,Financiamento,166,11
+192,2024-02-07,Hyundai,Elantra,2023,93906,Financiamento,238,36
+193,2024-06-15,Toyota,Hilux,2018,115972,Financiamento,103,4
+194,2024-08-05,Hyundai,Elantra,2016,138769,Leasing,110,4
+195,2023-01-01,Ford,Fiesta,2021,147788,Leasing,55,25
+196,2023-10-06,Ford,Fiesta,2019,87933,À Vista,12,4
+197,2023-01-25,Toyota,Corolla,2016,83868,Leasing,267,30
+198,2024-07-13,Ford,Ranger,2015,125220,Financiamento,97,8
+199,2023-06-04,Honda,Civic,2019,102007,Financiamento,141,22
+200,2023-08-04,Chevrolet,Cruze,2022,120121,Financiamento,72,2
+201,2024-06-16,Toyota,Hilux,2015,98422,À Vista,5,28
+202,2023-10-26,Toyota,Corolla,2018,82533,À Vista,88,35
+203,2023-10-13,Honda,Civic,2016,142339,Financiamento,162,10
+204,2024-08-03,Hyundai,Elantra,2021,85833,Leasing,229,18
+205,2023-08-09,Ford,Fiesta,2015,103441,À Vista,258,45
+206,2024-11-12,Chevrolet,S10,2019,84267,À Vista,226,42
+207,2023-07-01,Toyota,Hilux,2019,139970,À Vista,92,20
+208,2023-12-13,Ford,Focus,2017,132766,Financiamento,67,39
+209,2024-02-25,Ford,Fiesta,2022,138286,Leasing,159,19
+210,2024-05-21,Toyota,Yaris,2017,87023,Financiamento,208,20
+211,2023-01-18,Toyota,Yaris,2021,146214,Financiamento,195,23
+212,2024-12-02,Ford,Ranger,2019,95361,Leasing,25,37
+213,2024-10-16,Ford,Focus,2020,135149,Leasing,216,40
+214,2023-02-24,Honda,Fit,2018,131550,Financiamento,7,34
+215,2023-03-05,Toyota,Hilux,2023,122527,À Vista,33,13
+216,2024-04-19,Hyundai,Tucson,2016,121918,À Vista,18,45
+217,2023-07-04,Chevrolet,Onix,2020,127981,Leasing,287,22
+218,2022-12-16,Chevrolet,Cruze,2021,115800,À Vista,188,20
+219,2024-06-26,Toyota,Hilux,2021,93685,À Vista,108,26
+220,2023-01-18,Chevrolet,Onix,2019,127607,À Vista,205,35
+221,2023-02-20,Hyundai,Tucson,2022,137198,À Vista,119,14
+222,2023-05-04,Toyota,Corolla,2022,105363,À Vista,12,19
+223,2023-09-09,Toyota,Yaris,2015,98606,Financiamento,40,13
+224,2023-10-07,Toyota,Hilux,2021,95124,Financiamento,218,50
+225,2023-12-20,Chevrolet,Cruze,2019,112540,À Vista,77,7
+226,2023-06-03,Chevrolet,Cruze,2021,89227,À Vista,109,27
+227,2023-12-18,Ford,Ranger,2020,148495,Financiamento,217,27
+228,2024-07-11,Toyota,Yaris,2019,138369,Leasing,5,21
+229,2023-12-28,Toyota,Yaris,2023,148578,À Vista,138,27
+230,2024-04-30,Ford,Ranger,2019,142423,Financiamento,124,18
+231,2022-12-21,Toyota,Yaris,2018,128639,Leasing,239,14
+232,2023-08-22,Chevrolet,Cruze,2023,138325,À Vista,128,40
+233,2024-12-06,Hyundai,HB20,2015,127619,Leasing,277,3
+234,2024-05-22,Hyundai,Elantra,2016,88688,Leasing,178,48
+235,2024-04-20,Hyundai,Elantra,2021,100431,À Vista,29,21
+236,2024-04-12,Ford,Fiesta,2022,121517,Financiamento,132,14
+237,2024-07-06,Hyundai,HB20,2018,84717,Financiamento,43,6
+238,2024-11-27,Ford,Focus,2022,129321,Leasing,206,43
+239,2024-01-04,Toyota,Yaris,2018,100688,À Vista,206,45
+240,2024-04-28,Honda,CR-V,2019,117694,Leasing,199,20
+241,2024-07-11,Toyota,Corolla,2023,145442,Leasing,193,43
+242,2024-03-15,Honda,Civic,2018,133070,À Vista,83,29
+243,2024-08-18,Hyundai,Tucson,2015,142284,Financiamento,68,37
+244,2023-09-26,Honda,CR-V,2018,149662,À Vista,103,39
+245,2023-06-03,Chevrolet,Onix,2018,146960,Financiamento,180,6
+246,2023-05-13,Toyota,Corolla,2016,149131,À Vista,20,47
+247,2023-05-07,Ford,Ranger,2019,145571,À Vista,277,10
+248,2024-04-08,Hyundai,Elantra,2015,96216,Financiamento,171,9
+249,2024-12-05,Hyundai,Elantra,2021,109743,À Vista,128,38
+250,2024-01-18,Hyundai,HB20,2016,141329,À Vista,11,16
+251,2023-10-11,Ford,Ranger,2020,147705,Financiamento,159,47
+252,2024-03-31,Hyundai,HB20,2023,126517,Leasing,184,49
+253,2023-06-30,Honda,Fit,2018,84855,À Vista,7,47
+254,2024-03-05,Hyundai,HB20,2016,107479,À Vista,107,34
+255,2023-07-25,Honda,CR-V,2016,128940,Financiamento,6,27
+256,2022-12-24,Hyundai,Tucson,2016,124341,Financiamento,24,49
+257,2024-05-11,Hyundai,HB20,2019,139782,À Vista,225,41
+258,2023-05-04,Ford,Focus,2015,107003,Leasing,233,35
+259,2023-05-30,Toyota,Hilux,2019,110481,Financiamento,234,36
+260,2023-02-27,Ford,Focus,2022,140366,Leasing,29,32
+261,2023-06-21,Toyota,Hilux,2019,92226,Leasing,162,31
+262,2024-06-01,Honda,CR-V,2019,80510,Leasing,156,15
+263,2024-09-13,Chevrolet,Cruze,2017,134213,Leasing,222,5
+264,2023-12-17,Hyundai,HB20,2020,106132,À Vista,211,32
+265,2024-07-21,Chevrolet,S10,2023,123752,À Vista,300,41
+266,2023-11-30,Ford,Focus,2022,115568,À Vista,121,11
+267,2024-02-25,Honda,CR-V,2020,109836,Financiamento,75,13
+268,2023-08-12,Honda,Fit,2015,115157,Financiamento,59,19
+269,2023-04-23,Hyundai,Elantra,2020,90052,Financiamento,34,2
+270,2023-12-01,Toyota,Hilux,2021,117593,Financiamento,69,1
+271,2024-01-01,Honda,Civic,2017,118772,Financiamento,126,35
+272,2023-04-25,Ford,Focus,2019,82649,Leasing,169,38
+273,2023-02-09,Honda,CR-V,2019,122819,Financiamento,145,30
+274,2023-09-04,Chevrolet,S10,2023,101188,Leasing,101,23
+275,2024-07-18,Chevrolet,Cruze,2017,96108,Financiamento,182,11
+276,2024-10-10,Toyota,Hilux,2022,131952,À Vista,28,20
+277,2023-01-02,Toyota,Yaris,2016,131951,Leasing,84,15
+278,2024-04-15,Chevrolet,S10,2016,149835,Leasing,290,19
+279,2023-12-26,Toyota,Hilux,2019,128369,Leasing,297,27
+280,2024-10-21,Honda,CR-V,2020,123299,À Vista,225,9
+281,2023-06-17,Hyundai,Elantra,2022,106821,À Vista,227,26
+282,2023-06-23,Honda,CR-V,2017,128229,Financiamento,242,10
+283,2024-01-03,Honda,Civic,2023,116568,Leasing,22,23
+284,2024-03-30,Toyota,Corolla,2018,89435,À Vista,173,43
+285,2024-01-21,Toyota,Yaris,2019,131550,Leasing,153,49
+286,2023-05-09,Ford,Fiesta,2016,80669,À Vista,13,2
+287,2024-12-06,Toyota,Yaris,2016,88345,Leasing,46,42
+288,2023-03-04,Chevrolet,Onix,2018,93089,Leasing,115,40
+289,2023-08-29,Hyundai,Elantra,2015,89433,Financiamento,144,45
+290,2024-10-31,Chevrolet,Cruze,2015,133473,Leasing,137,25
+291,2024-11-28,Ford,Fiesta,2017,94726,À Vista,284,31
+292,2023-04-19,Hyundai,HB20,2021,91327,Financiamento,43,33
+293,2024-09-17,Chevrolet,Cruze,2021,93747,Leasing,161,5
+294,2024-01-25,Toyota,Yaris,2015,83960,À Vista,165,12
+295,2024-09-12,Ford,Focus,2018,141375,Financiamento,166,42
+296,2023-07-08,Honda,Civic,2015,117761,Financiamento,144,44
+297,2023-04-29,Toyota,Hilux,2018,123411,Leasing,56,49
+298,2024-01-18,Chevrolet,S10,2023,118715,À Vista,62,46
+299,2022-12-12,Ford,Focus,2023,133482,Financiamento,1,48
+300,2024-11-30,Chevrolet,Onix,2023,127638,Leasing,62,41
+301,2024-04-24,Ford,Ranger,2018,121582,À Vista,170,33
+302,2024-02-24,Honda,Fit,2017,144207,Financiamento,207,8
+303,2023-09-18,Hyundai,HB20,2019,149766,Leasing,30,7
+304,2024-07-21,Honda,Civic,2019,129682,Financiamento,279,35
+305,2023-07-01,Hyundai,Tucson,2015,101593,Leasing,206,48
+306,2024-11-04,Hyundai,HB20,2019,129933,À Vista,300,24
+307,2023-06-17,Hyundai,HB20,2017,87768,Leasing,257,2
+308,2023-08-05,Chevrolet,Onix,2017,99907,Financiamento,273,39
+309,2024-05-14,Toyota,Corolla,2023,140482,Leasing,82,44
+310,2023-02-04,Honda,Civic,2023,116692,À Vista,254,6
+311,2023-10-09,Toyota,Hilux,2023,99006,À Vista,177,41
+312,2024-08-13,Chevrolet,Onix,2020,85539,Leasing,126,22
+313,2023-08-16,Chevrolet,S10,2020,108108,Leasing,293,1
+314,2023-05-28,Chevrolet,Onix,2016,146923,À Vista,25,36
+315,2023-07-11,Chevrolet,Onix,2016,129419,Leasing,113,2
+316,2023-05-16,Ford,Ranger,2022,141622,À Vista,65,1
+317,2023-06-27,Toyota,Corolla,2017,136415,À Vista,133,25
+318,2024-08-16,Chevrolet,Cruze,2016,112622,Leasing,199,30
+319,2024-02-05,Ford,Ranger,2021,146530,Leasing,299,19
+320,2024-10-19,Toyota,Corolla,2021,143693,Financiamento,265,12
+321,2024-08-04,Hyundai,HB20,2022,134991,Leasing,53,34
+322,2024-04-20,Hyundai,HB20,2017,129563,Financiamento,56,35
+323,2023-09-17,Chevrolet,Cruze,2021,148651,Leasing,252,39
+324,2024-05-29,Honda,CR-V,2018,90810,Leasing,253,17
+325,2023-05-07,Toyota,Hilux,2023,97862,Leasing,171,48
+326,2023-01-13,Chevrolet,Cruze,2015,126067,Financiamento,6,44
+327,2023-05-18,Chevrolet,Cruze,2022,92585,À Vista,237,8
+328,2023-03-19,Hyundai,Tucson,2022,136803,Financiamento,56,25
+329,2023-03-05,Toyota,Hilux,2019,80784,À Vista,253,6
+330,2024-11-21,Ford,Fiesta,2020,115952,Financiamento,220,16
+331,2024-03-07,Toyota,Hilux,2023,86430,Leasing,174,15
+332,2022-12-23,Chevrolet,S10,2017,141637,Leasing,262,24
+333,2023-05-27,Hyundai,Elantra,2017,136420,Financiamento,152,24
+334,2023-09-25,Honda,Civic,2023,149238,Leasing,177,33
+335,2023-08-04,Hyundai,Elantra,2016,128949,À Vista,150,46
+336,2023-09-02,Honda,Civic,2017,99472,À Vista,126,27
+337,2023-04-28,Toyota,Yaris,2019,139513,À Vista,196,44
+338,2023-06-20,Chevrolet,Onix,2023,125088,À Vista,226,12
+339,2023-07-23,Chevrolet,S10,2018,96090,Financiamento,135,21
+340,2023-11-12,Chevrolet,Onix,2017,126379,Leasing,220,22
+341,2024-09-26,Ford,Fiesta,2023,112394,Financiamento,152,26
+342,2022-12-29,Honda,Civic,2023,146393,Financiamento,3,19
+343,2024-10-29,Chevrolet,S10,2015,102439,À Vista,201,3
+344,2023-12-18,Ford,Fiesta,2019,142479,Financiamento,153,30
+345,2024-10-10,Chevrolet,Onix,2022,113595,Leasing,21,3
+346,2023-02-13,Ford,Ranger,2018,115709,Leasing,136,31
+347,2023-05-22,Ford,Ranger,2022,82650,Leasing,129,40
+348,2024-10-22,Honda,Civic,2021,102292,À Vista,166,25
+349,2023-05-04,Honda,Fit,2016,149085,À Vista,225,9
+350,2024-04-18,Toyota,Hilux,2019,103151,À Vista,199,25
+351,2024-11-23,Chevrolet,Onix,2021,122912,Leasing,125,5
+352,2024-03-10,Chevrolet,Onix,2022,137759,Leasing,191,39
+353,2023-06-06,Ford,Fiesta,2019,121690,Financiamento,27,7
+354,2023-04-17,Hyundai,Tucson,2020,144913,Leasing,48,49
+355,2024-12-02,Honda,Fit,2022,125346,À Vista,63,15
+356,2023-07-09,Chevrolet,Onix,2016,86459,À Vista,86,2
+357,2023-09-13,Ford,Ranger,2018,89837,Financiamento,97,25
+358,2023-07-29,Chevrolet,Cruze,2015,129937,Financiamento,128,17
+359,2024-05-19,Chevrolet,Onix,2017,119852,À Vista,194,19
+360,2023-10-16,Chevrolet,S10,2020,125386,À Vista,39,30
+361,2024-10-28,Chevrolet,Onix,2020,120162,Leasing,75,5
+362,2024-11-28,Honda,Civic,2016,147756,À Vista,65,47
+363,2023-11-08,Ford,Fiesta,2017,139648,Financiamento,275,47
+364,2023-08-27,Toyota,Corolla,2017,136272,Leasing,152,44
+365,2024-04-19,Hyundai,Elantra,2023,145366,À Vista,224,33
+366,2023-01-01,Ford,Ranger,2022,103468,À Vista,37,11
+367,2024-11-04,Chevrolet,Cruze,2015,94993,Financiamento,30,22
+368,2024-11-06,Ford,Focus,2022,100051,À Vista,23,35
+369,2023-06-30,Toyota,Corolla,2021,84971,Financiamento,229,7
+370,2024-05-10,Hyundai,Tucson,2016,144124,Leasing,258,34
+371,2023-09-20,Chevrolet,S10,2023,145876,À Vista,238,30
+372,2024-03-27,Ford,Ranger,2016,118307,Leasing,203,14
+373,2023-02-06,Ford,Focus,2017,147943,Leasing,6,36
+374,2023-12-07,Hyundai,Tucson,2016,81724,Leasing,180,44
+375,2024-10-07,Honda,Fit,2023,142974,Financiamento,188,20
+376,2023-12-17,Chevrolet,Cruze,2020,88425,À Vista,123,48
+377,2024-05-20,Hyundai,Elantra,2020,119368,À Vista,200,24
+378,2024-01-20,Honda,CR-V,2021,86867,Financiamento,289,29
+379,2023-06-04,Honda,Civic,2015,104393,Leasing,97,5
+380,2023-05-31,Honda,Civic,2019,91472,À Vista,280,15
+381,2023-05-21,Ford,Ranger,2016,123152,À Vista,164,40
+382,2023-07-13,Honda,CR-V,2023,144972,Financiamento,117,29
+383,2024-10-28,Toyota,Corolla,2022,109929,À Vista,231,14
+384,2024-08-25,Chevrolet,S10,2015,98915,Leasing,99,3
+385,2023-10-30,Hyundai,Tucson,2017,97481,Financiamento,272,2
+386,2024-09-21,Hyundai,HB20,2016,116795,Leasing,299,7
+387,2024-01-26,Chevrolet,S10,2023,93790,À Vista,292,30
+388,2023-01-29,Toyota,Yaris,2021,109188,À Vista,207,18
+389,2023-02-25,Toyota,Hilux,2022,81747,Leasing,136,28
+390,2022-12-21,Toyota,Corolla,2020,146633,Financiamento,75,23
+391,2023-06-22,Ford,Focus,2018,101788,À Vista,282,6
+392,2023-08-29,Ford,Fiesta,2019,105623,À Vista,293,36
+393,2024-01-17,Hyundai,HB20,2015,83546,Leasing,27,35
+394,2024-02-17,Ford,Focus,2020,119544,À Vista,73,9
+395,2024-01-15,Chevrolet,S10,2021,104496,Leasing,125,11
+396,2024-01-27,Chevrolet,S10,2017,134363,À Vista,196,44
+397,2023-02-09,Chevrolet,S10,2015,98672,À Vista,211,31
+398,2023-11-11,Toyota,Yaris,2022,106918,Financiamento,125,41
+399,2023-04-15,Ford,Fiesta,2016,144795,Leasing,239,31
+400,2023-07-20,Honda,CR-V,2016,108581,Leasing,12,35
+401,2023-01-30,Chevrolet,S10,2018,141031,À Vista,243,37
+402,2024-06-23,Ford,Focus,2019,136602,Leasing,12,43
+403,2023-04-14,Hyundai,HB20,2023,88614,Leasing,81,2
+404,2023-12-16,Ford,Focus,2017,115595,Financiamento,33,17
+405,2023-09-04,Ford,Ranger,2022,115137,Leasing,152,7
+406,2024-08-13,Honda,CR-V,2016,142769,Leasing,202,39
+407,2023-01-30,Toyota,Corolla,2017,143914,À Vista,169,22
+408,2023-02-28,Hyundai,HB20,2021,134560,Financiamento,203,44
+409,2023-11-28,Ford,Ranger,2017,134759,Financiamento,177,44
+410,2023-06-02,Toyota,Corolla,2017,138299,À Vista,294,19
+411,2023-02-10,Honda,Civic,2018,123244,Financiamento,268,15
+412,2023-09-17,Ford,Ranger,2023,149610,Financiamento,184,12
+413,2023-12-15,Toyota,Corolla,2021,93144,Leasing,139,43
+414,2023-08-07,Toyota,Yaris,2017,132719,Leasing,78,16
+415,2023-11-29,Toyota,Yaris,2019,125591,Financiamento,27,33
+416,2024-03-01,Hyundai,HB20,2017,89773,À Vista,124,50
+417,2024-03-08,Toyota,Hilux,2023,89108,À Vista,66,22
+418,2023-01-05,Hyundai,Elantra,2020,99826,Leasing,60,9
+419,2024-04-26,Hyundai,Tucson,2016,110716,Financiamento,47,21
+420,2023-07-31,Chevrolet,Onix,2017,149881,Financiamento,222,45
+421,2023-12-10,Chevrolet,Onix,2015,142526,Leasing,203,30
+422,2023-03-04,Toyota,Corolla,2018,110944,Financiamento,69,27
+423,2024-10-31,Ford,Focus,2022,83210,Financiamento,247,18
+424,2024-02-19,Ford,Focus,2020,123052,À Vista,24,34
+425,2024-07-31,Toyota,Yaris,2023,87558,À Vista,97,17
+426,2024-07-14,Toyota,Corolla,2016,135748,Leasing,225,50
+427,2024-07-23,Honda,Fit,2018,135431,Leasing,109,8
+428,2023-03-16,Ford,Focus,2021,104730,Financiamento,20,16
+429,2024-05-07,Chevrolet,S10,2016,132295,Leasing,104,34
+430,2024-04-25,Honda,Fit,2015,104965,Leasing,17,14
+431,2023-05-13,Ford,Focus,2016,149340,À Vista,274,21
+432,2022-12-15,Ford,Fiesta,2017,81368,À Vista,113,47
+433,2024-02-03,Toyota,Yaris,2015,115153,Leasing,46,39
+434,2024-01-20,Hyundai,Elantra,2017,137706,Financiamento,3,45
+435,2023-07-17,Hyundai,Elantra,2018,97438,Leasing,191,8
+436,2024-11-19,Ford,Fiesta,2018,107624,À Vista,214,6
+437,2023-07-13,Hyundai,Elantra,2023,144187,À Vista,29,46
+438,2024-08-19,Ford,Fiesta,2015,96749,À Vista,299,2
+439,2023-01-29,Chevrolet,S10,2018,111837,Leasing,151,18
+440,2024-07-15,Hyundai,Elantra,2016,116916,Financiamento,161,25
+441,2024-09-18,Hyundai,HB20,2022,142292,Leasing,157,37
+442,2023-03-02,Ford,Focus,2020,138842,À Vista,79,37
+443,2023-08-14,Toyota,Hilux,2017,131248,À Vista,192,38
+444,2023-04-13,Ford,Focus,2022,95440,Financiamento,6,5
+445,2024-09-26,Ford,Fiesta,2016,139562,Leasing,37,31
+446,2023-10-28,Honda,CR-V,2016,92288,Leasing,71,17
+447,2023-05-15,Ford,Ranger,2016,129471,À Vista,87,3
+448,2024-06-17,Honda,Fit,2023,81448,À Vista,181,34
+449,2024-06-07,Honda,Fit,2018,146350,Financiamento,59,18
+450,2023-10-07,Toyota,Corolla,2019,103815,Leasing,11,37
+451,2023-09-17,Honda,Fit,2022,104829,Financiamento,137,2
+452,2024-04-19,Toyota,Corolla,2015,99515,Financiamento,46,28
+453,2024-01-21,Chevrolet,Cruze,2021,91728,À Vista,201,12
+454,2024-03-08,Honda,Civic,2020,132951,Financiamento,37,17
+455,2022-12-22,Chevrolet,Cruze,2017,124939,Leasing,12,45
+456,2023-11-05,Honda,CR-V,2017,133146,À Vista,223,31
+457,2023-10-02,Honda,Civic,2016,144094,Financiamento,96,43
+458,2024-05-30,Ford,Ranger,2022,110874,Financiamento,73,16
+459,2023-09-26,Ford,Ranger,2017,149701,Leasing,75,35
+460,2024-05-22,Ford,Ranger,2015,84669,À Vista,298,30
+461,2023-03-18,Toyota,Yaris,2018,120461,Leasing,230,6
+462,2024-02-26,Ford,Fiesta,2016,91644,Financiamento,269,14
+463,2023-06-26,Honda,Civic,2016,110811,Financiamento,111,9
+464,2023-12-20,Honda,Fit,2020,107514,À Vista,140,8
+465,2023-08-20,Chevrolet,S10,2019,134706,À Vista,286,33
+466,2023-04-27,Chevrolet,Onix,2018,135995,Leasing,84,50
+467,2023-03-04,Chevrolet,Onix,2016,149395,Leasing,19,28
+468,2024-08-09,Toyota,Hilux,2020,114103,Financiamento,267,2
+469,2023-09-12,Chevrolet,Onix,2020,133561,Financiamento,204,7
+470,2023-10-26,Hyundai,Tucson,2019,123588,Financiamento,288,27
+471,2023-01-07,Hyundai,Tucson,2019,130829,Leasing,215,15
+472,2024-09-17,Hyundai,Tucson,2015,144299,Financiamento,16,11
+473,2023-07-06,Hyundai,Elantra,2018,97159,À Vista,145,10
+474,2023-02-09,Ford,Focus,2020,82813,Financiamento,119,37
+475,2024-06-11,Honda,CR-V,2018,101842,À Vista,122,15
+476,2023-09-18,Ford,Fiesta,2019,92943,Financiamento,238,13
+477,2024-05-04,Hyundai,Tucson,2017,102414,Leasing,69,20
+478,2024-08-30,Hyundai,HB20,2018,93092,Leasing,184,18
+479,2023-07-08,Chevrolet,Cruze,2021,100449,À Vista,48,38
+480,2024-04-12,Honda,Civic,2021,149887,Financiamento,99,21
+481,2024-04-22,Chevrolet,S10,2017,110301,Leasing,141,11
+482,2024-01-29,Toyota,Yaris,2021,145768,Leasing,146,12
+483,2024-11-16,Toyota,Corolla,2021,135131,À Vista,113,7
+484,2024-02-07,Toyota,Yaris,2018,142465,À Vista,159,17
+485,2023-11-07,Ford,Fiesta,2022,143155,À Vista,45,5
+486,2024-04-26,Hyundai,Tucson,2016,89382,Leasing,219,7
+487,2024-09-25,Ford,Ranger,2023,80276,Leasing,250,43
+488,2023-12-15,Toyota,Hilux,2020,119190,Leasing,145,48
+489,2024-08-29,Chevrolet,Cruze,2023,141876,À Vista,171,24
+490,2023-04-29,Toyota,Yaris,2022,82914,Leasing,296,8
+491,2023-08-03,Chevrolet,Cruze,2020,128311,Financiamento,42,47
+492,2023-03-19,Hyundai,HB20,2021,88160,À Vista,58,26
+493,2024-08-01,Honda,Civic,2021,115962,Leasing,160,7
+494,2023-11-27,Chevrolet,Onix,2015,84139,Financiamento,285,37
+495,2023-07-23,Chevrolet,S10,2023,84153,À Vista,206,46
+496,2024-11-17,Chevrolet,Cruze,2023,87025,Leasing,188,24
+497,2024-04-04,Chevrolet,S10,2016,98670,Leasing,18,13
+498,2024-04-25,Honda,Fit,2019,98735,Financiamento,256,41
+499,2024-07-07,Chevrolet,Onix,2016,91820,Financiamento,286,37
+500,2023-08-05,Chevrolet,S10,2022,132515,Leasing,51,44
+501,2023-03-29,Chevrolet,Cruze,2021,125053,Leasing,199,40
+502,2022-12-13,Toyota,Hilux,2015,90782,À Vista,117,23
+503,2023-04-08,Ford,Focus,2016,93903,À Vista,95,39
+504,2023-08-09,Hyundai,HB20,2022,107176,Leasing,54,22
+505,2023-08-01,Toyota,Hilux,2018,94144,Financiamento,292,16
+506,2024-06-03,Honda,Civic,2023,109593,Leasing,268,18
+507,2023-03-11,Chevrolet,Onix,2017,122925,Financiamento,168,23
+508,2023-08-05,Hyundai,Elantra,2019,111348,Financiamento,122,10
+509,2024-05-07,Honda,Civic,2021,110476,À Vista,197,43
+510,2024-12-06,Ford,Ranger,2017,92346,Financiamento,198,17
+511,2024-04-29,Toyota,Yaris,2022,105685,À Vista,185,42
+512,2024-07-21,Ford,Focus,2022,108554,Financiamento,52,32
+513,2024-05-24,Honda,Civic,2016,119697,Leasing,299,9
+514,2023-07-10,Chevrolet,Onix,2020,98736,Leasing,247,20
+515,2024-08-15,Ford,Focus,2023,82607,Leasing,247,41
+516,2024-09-01,Chevrolet,S10,2023,85712,Financiamento,257,39
+517,2023-08-31,Hyundai,Tucson,2019,135104,Leasing,41,35
+518,2023-05-19,Ford,Focus,2019,110947,Financiamento,164,26
+519,2022-12-16,Honda,CR-V,2019,88726,Financiamento,62,16
+520,2024-07-06,Toyota,Yaris,2023,83083,Leasing,207,4
+521,2024-02-07,Hyundai,Tucson,2016,106475,Leasing,76,24
+522,2024-03-15,Chevrolet,S10,2019,90250,Financiamento,77,39
+523,2023-03-15,Chevrolet,Cruze,2015,121636,À Vista,185,20
+524,2024-04-11,Toyota,Yaris,2015,102781,Financiamento,286,6
+525,2024-03-08,Honda,Fit,2021,112363,À Vista,8,36
+526,2023-09-15,Chevrolet,Onix,2023,129642,À Vista,299,20
+527,2023-10-09,Honda,CR-V,2015,147043,À Vista,252,31
+528,2024-03-30,Toyota,Hilux,2015,146076,À Vista,18,48
+529,2024-03-21,Ford,Fiesta,2022,144104,Financiamento,295,14
+530,2024-03-03,Hyundai,Tucson,2021,95742,Financiamento,228,22
+531,2024-11-29,Toyota,Hilux,2023,88015,À Vista,73,33
+532,2024-08-01,Honda,Civic,2018,133827,Leasing,227,14
+533,2024-01-01,Honda,Civic,2022,80378,À Vista,260,44
+534,2023-04-03,Chevrolet,Cruze,2020,102565,Financiamento,154,38
+535,2022-12-21,Ford,Fiesta,2020,130792,Financiamento,112,29
+536,2024-07-01,Toyota,Yaris,2019,119956,Financiamento,161,32
+537,2023-06-10,Honda,Fit,2020,133988,Financiamento,68,3
+538,2023-06-11,Chevrolet,Cruze,2019,81788,Leasing,271,50
+539,2023-09-27,Chevrolet,Onix,2022,105841,À Vista,50,35
+540,2024-10-09,Hyundai,Tucson,2021,127907,Leasing,31,20
+541,2024-05-24,Chevrolet,Cruze,2015,148070,À Vista,132,28
+542,2024-02-21,Toyota,Hilux,2020,89501,Leasing,105,20
+543,2024-08-29,Chevrolet,Onix,2023,146930,Financiamento,1,24
+544,2024-05-13,Chevrolet,Onix,2016,127916,Leasing,246,6
+545,2023-01-07,Hyundai,Elantra,2023,123971,Leasing,266,33
+546,2023-08-26,Honda,Civic,2023,118433,À Vista,114,30
+547,2023-06-23,Honda,Civic,2017,129273,Leasing,180,20
+548,2023-08-10,Hyundai,Tucson,2020,100747,À Vista,190,39
+549,2023-07-24,Toyota,Corolla,2021,145555,Leasing,176,8
+550,2024-05-11,Hyundai,HB20,2018,95884,Leasing,91,14
+551,2022-12-30,Toyota,Corolla,2023,145035,Leasing,8,15
+552,2024-09-11,Ford,Ranger,2019,122644,Leasing,141,7
+553,2024-03-04,Toyota,Yaris,2023,93135,À Vista,220,24
+554,2024-06-04,Hyundai,Tucson,2017,131504,À Vista,130,13
+555,2023-08-20,Chevrolet,S10,2016,81269,À Vista,197,30
+556,2023-11-06,Chevrolet,Cruze,2018,112464,À Vista,7,18
+557,2023-02-28,Honda,CR-V,2016,125191,Financiamento,128,17
+558,2024-03-02,Ford,Fiesta,2020,90912,À Vista,68,13
+559,2023-05-27,Chevrolet,S10,2020,124597,Financiamento,238,11
+560,2023-10-09,Hyundai,Tucson,2020,146126,Leasing,223,44
+561,2023-10-26,Honda,Fit,2018,121918,Financiamento,188,10
+562,2024-08-25,Hyundai,Elantra,2021,142288,Leasing,115,9
+563,2023-05-21,Chevrolet,S10,2016,117189,À Vista,136,14
+564,2023-03-25,Hyundai,Elantra,2019,125514,Leasing,175,36
+565,2023-11-05,Ford,Ranger,2017,127568,Financiamento,237,10
+566,2024-06-25,Ford,Focus,2017,122028,Financiamento,173,47
+567,2024-06-17,Ford,Focus,2022,101304,À Vista,247,50
+568,2023-03-06,Hyundai,Elantra,2017,112388,À Vista,234,12
+569,2023-02-13,Ford,Fiesta,2020,138762,Financiamento,280,2
+570,2023-03-18,Toyota,Yaris,2021,86919,Leasing,34,48
+571,2023-04-16,Chevrolet,S10,2019,131344,Leasing,191,6
+572,2023-12-12,Ford,Ranger,2019,91608,Leasing,212,23
+573,2023-08-04,Hyundai,Tucson,2023,127673,Leasing,181,14
+574,2023-09-10,Honda,Fit,2016,128454,Leasing,114,48
+575,2024-01-10,Chevrolet,Cruze,2017,145282,Financiamento,20,26
+576,2023-10-25,Hyundai,Tucson,2016,86125,Leasing,295,19
+577,2023-05-31,Chevrolet,S10,2017,90735,Financiamento,46,50
+578,2023-04-29,Toyota,Corolla,2023,82181,Financiamento,72,32
+579,2024-01-08,Hyundai,HB20,2023,111566,Financiamento,143,46
+580,2023-10-18,Honda,CR-V,2020,148699,À Vista,159,43
+581,2023-05-12,Toyota,Hilux,2018,125046,Leasing,191,16
+582,2023-05-29,Ford,Focus,2022,140180,Financiamento,148,18
+583,2023-11-06,Toyota,Hilux,2022,104064,À Vista,236,18
+584,2024-07-02,Hyundai,Tucson,2016,148268,Leasing,93,16
+585,2024-06-24,Ford,Focus,2017,144499,À Vista,120,3
+586,2023-12-14,Ford,Focus,2023,142511,Financiamento,22,11
+587,2024-11-16,Hyundai,HB20,2017,114376,Leasing,83,48
+588,2023-04-20,Chevrolet,Onix,2023,97200,Leasing,139,31
+589,2023-05-21,Ford,Focus,2019,142097,Leasing,230,10
+590,2023-03-08,Chevrolet,S10,2022,113403,Financiamento,257,3
+591,2023-09-26,Honda,CR-V,2018,125433,Financiamento,152,40
+592,2024-07-16,Ford,Focus,2017,130134,À Vista,260,36
+593,2023-06-02,Chevrolet,Onix,2023,123873,Leasing,70,38
+594,2023-12-15,Toyota,Corolla,2015,99109,À Vista,155,7
+595,2023-02-06,Ford,Focus,2022,115758,Financiamento,257,5
+596,2024-01-26,Toyota,Hilux,2019,124372,Leasing,24,13
+597,2023-07-06,Ford,Ranger,2020,80243,Leasing,231,46
+598,2024-07-25,Hyundai,Tucson,2023,130468,Leasing,184,34
+599,2023-10-19,Ford,Focus,2023,107562,Financiamento,200,11
+600,2023-09-15,Honda,CR-V,2022,135526,Leasing,214,19
+601,2023-08-16,Hyundai,Elantra,2018,130963,À Vista,274,16
+602,2023-11-03,Ford,Ranger,2018,116205,Leasing,211,14
+603,2023-02-02,Ford,Fiesta,2017,148529,À Vista,156,38
+604,2024-12-04,Toyota,Hilux,2019,131513,Financiamento,287,21
+605,2023-10-09,Ford,Fiesta,2023,85863,Financiamento,76,36
+606,2024-02-01,Toyota,Yaris,2016,147771,Financiamento,67,18
+607,2023-01-24,Honda,CR-V,2023,118969,Leasing,111,6
+608,2024-02-23,Chevrolet,Cruze,2022,117747,Leasing,70,26
+609,2023-12-11,Honda,Civic,2023,118696,Financiamento,273,42
+610,2023-09-04,Honda,Civic,2023,144619,Leasing,212,49
+611,2023-06-20,Honda,Civic,2023,106683,À Vista,214,18
+612,2024-05-12,Chevrolet,S10,2020,89590,Leasing,73,37
+613,2023-12-08,Ford,Ranger,2021,123715,Leasing,103,39
+614,2024-06-08,Hyundai,Tucson,2021,97687,Financiamento,153,34
+615,2024-01-13,Ford,Ranger,2017,99855,Leasing,122,25
+616,2023-05-21,Hyundai,Elantra,2021,141863,Financiamento,215,29
+617,2023-02-11,Ford,Ranger,2017,86159,Leasing,170,17
+618,2024-03-23,Hyundai,Elantra,2018,104038,À Vista,249,48
+619,2023-03-15,Chevrolet,S10,2023,104105,À Vista,273,9
+620,2024-03-11,Hyundai,Tucson,2023,108570,À Vista,250,11
+621,2023-03-24,Honda,CR-V,2023,97619,Leasing,93,10
+622,2023-09-03,Honda,CR-V,2019,143666,À Vista,71,33
+623,2023-06-24,Ford,Fiesta,2018,145737,Financiamento,127,45
+624,2024-01-23,Ford,Ranger,2016,133528,Financiamento,110,2
+625,2023-12-19,Toyota,Yaris,2018,111656,À Vista,136,42
+626,2024-11-01,Hyundai,Elantra,2017,92641,Financiamento,22,42
+627,2024-08-11,Toyota,Hilux,2023,148332,Leasing,101,36
+628,2024-02-02,Hyundai,Elantra,2019,108069,Financiamento,63,6
+629,2024-08-06,Toyota,Hilux,2015,91776,Financiamento,32,23
+630,2024-12-05,Ford,Fiesta,2016,80737,À Vista,182,41
+631,2023-12-21,Hyundai,Tucson,2022,88397,Financiamento,139,5
+632,2023-08-06,Ford,Focus,2019,92565,Leasing,170,1
+633,2024-05-21,Honda,Civic,2018,102936,Financiamento,82,38
+634,2023-10-25,Toyota,Yaris,2017,105661,À Vista,251,24
+635,2023-06-19,Hyundai,Elantra,2016,132204,Leasing,263,19
+636,2024-01-28,Hyundai,Tucson,2023,108518,À Vista,290,48
+637,2023-02-18,Hyundai,Tucson,2019,119686,Leasing,132,25
+638,2023-05-08,Honda,Civic,2015,95546,Leasing,167,50
+639,2023-07-28,Chevrolet,Cruze,2021,112379,Financiamento,176,7
+640,2024-04-02,Honda,CR-V,2015,119135,À Vista,121,48
+641,2023-04-01,Toyota,Hilux,2016,120150,Leasing,245,20
+642,2023-10-09,Toyota,Corolla,2020,83480,Leasing,291,24
+643,2023-09-18,Toyota,Yaris,2021,83827,Leasing,35,15
+644,2024-04-07,Toyota,Hilux,2023,109133,Leasing,209,36
+645,2023-01-15,Chevrolet,S10,2018,132767,Financiamento,257,22
+646,2023-10-30,Hyundai,Tucson,2021,111302,À Vista,73,36
+647,2024-07-18,Ford,Ranger,2015,90715,Financiamento,21,2
+648,2023-08-08,Toyota,Hilux,2015,124464,Financiamento,210,16
+649,2023-01-24,Chevrolet,Onix,2016,106880,Financiamento,40,8
+650,2023-10-16,Toyota,Hilux,2021,146035,Leasing,130,1
+651,2024-06-16,Ford,Ranger,2021,141705,Financiamento,33,17
+652,2024-04-22,Chevrolet,Cruze,2017,93673,Leasing,127,8
+653,2024-04-20,Honda,Fit,2017,149257,À Vista,158,43
+654,2024-08-20,Hyundai,Elantra,2016,109363,Leasing,98,43
+655,2024-01-29,Chevrolet,Cruze,2017,108780,Financiamento,7,27
+656,2023-08-05,Ford,Ranger,2020,143139,Financiamento,2,21
+657,2024-01-16,Chevrolet,Cruze,2022,135645,À Vista,209,28
+658,2023-04-17,Honda,Civic,2021,139602,Financiamento,161,10
+659,2024-07-11,Ford,Focus,2018,116800,Leasing,145,16
+660,2023-05-15,Ford,Fiesta,2015,132145,Leasing,65,47
+661,2024-06-12,Toyota,Yaris,2015,133199,Financiamento,24,34
+662,2023-10-22,Toyota,Corolla,2023,126284,À Vista,220,48
+663,2023-11-19,Hyundai,Elantra,2023,133367,À Vista,267,24
+664,2023-10-06,Hyundai,Elantra,2020,146453,À Vista,241,38
+665,2023-10-08,Toyota,Yaris,2020,108667,À Vista,232,40
+666,2023-01-11,Toyota,Yaris,2021,109898,Financiamento,14,6
+667,2024-01-29,Toyota,Hilux,2021,116252,Leasing,63,20
+668,2023-03-17,Ford,Ranger,2019,92480,Financiamento,113,32
+669,2024-06-21,Ford,Ranger,2018,112511,À Vista,57,39
+670,2023-03-31,Ford,Focus,2019,119306,Financiamento,184,15
+671,2023-11-06,Toyota,Hilux,2020,83024,Leasing,22,7
+672,2023-02-10,Toyota,Corolla,2022,99194,Leasing,91,34
+673,2023-06-11,Hyundai,HB20,2022,109703,Financiamento,62,14
+674,2024-07-19,Hyundai,Tucson,2022,123886,Financiamento,279,12
+675,2023-01-21,Hyundai,HB20,2021,127974,Leasing,50,3
+676,2024-10-08,Hyundai,Tucson,2015,136491,Leasing,125,33
+677,2023-09-08,Chevrolet,S10,2015,87805,Financiamento,235,43
+678,2023-05-16,Toyota,Hilux,2019,129560,Leasing,44,25
+679,2023-03-07,Toyota,Hilux,2019,117349,Financiamento,283,15
+680,2024-02-07,Hyundai,Elantra,2017,130514,Leasing,38,12
+681,2023-04-11,Chevrolet,Cruze,2023,144278,À Vista,183,40
+682,2024-11-20,Ford,Focus,2022,86974,Financiamento,278,37
+683,2024-11-07,Ford,Focus,2018,93728,Financiamento,23,18
+684,2023-06-20,Hyundai,Tucson,2022,112861,Leasing,120,33
+685,2024-04-06,Toyota,Yaris,2015,82704,Leasing,272,14
+686,2024-03-05,Honda,Fit,2016,111721,Leasing,99,7
+687,2024-11-05,Ford,Fiesta,2019,141991,Leasing,265,50
+688,2024-11-21,Honda,CR-V,2021,82422,Financiamento,240,29
+689,2023-05-01,Toyota,Yaris,2023,123566,Financiamento,115,21
+690,2024-08-03,Honda,CR-V,2017,144323,À Vista,252,37
+691,2023-10-08,Chevrolet,Onix,2015,89000,Financiamento,90,6
+692,2023-11-08,Ford,Fiesta,2015,100702,Leasing,231,43
+693,2024-05-11,Honda,CR-V,2020,112044,À Vista,269,19
+694,2024-08-04,Honda,Fit,2015,142338,À Vista,30,11
+695,2023-03-20,Chevrolet,Onix,2022,125167,Leasing,149,21
+696,2023-08-20,Honda,Civic,2018,119840,À Vista,101,18
+697,2023-04-09,Toyota,Hilux,2021,98314,À Vista,30,14
+698,2023-12-30,Toyota,Hilux,2023,115904,Leasing,273,29
+699,2023-05-29,Hyundai,Tucson,2023,97763,Leasing,132,33
+700,2024-11-30,Ford,Focus,2019,82805,À Vista,211,3
+701,2023-02-13,Ford,Ranger,2023,131407,À Vista,291,13
+702,2024-03-25,Chevrolet,S10,2016,110339,À Vista,156,33
+703,2023-12-04,Honda,CR-V,2019,117128,Financiamento,208,18
+704,2023-01-14,Honda,Fit,2016,130364,Financiamento,200,23
+705,2023-08-18,Hyundai,HB20,2016,119582,À Vista,101,47
+706,2023-10-15,Chevrolet,Cruze,2019,104088,Leasing,293,26
+707,2024-09-23,Honda,CR-V,2017,121041,Leasing,231,1
+708,2024-08-10,Honda,CR-V,2022,142693,À Vista,215,20
+709,2023-05-17,Toyota,Corolla,2018,100713,À Vista,125,24
+710,2022-12-12,Toyota,Hilux,2023,113283,Leasing,285,21
+711,2024-05-23,Hyundai,Elantra,2021,98305,À Vista,52,25
+712,2024-06-14,Hyundai,Tucson,2021,80491,À Vista,200,19
+713,2024-08-27,Ford,Fiesta,2015,119375,À Vista,187,35
+714,2024-02-04,Ford,Ranger,2015,141619,Financiamento,134,3
+715,2024-01-12,Toyota,Hilux,2018,86347,Financiamento,103,17
+716,2024-05-10,Honda,Fit,2017,83024,Financiamento,122,18
+717,2024-10-11,Hyundai,Tucson,2017,114364,Financiamento,162,33
+718,2023-05-23,Hyundai,Elantra,2021,145034,Financiamento,220,12
+719,2022-12-14,Honda,CR-V,2017,116299,À Vista,228,28
+720,2023-01-14,Honda,Fit,2015,113466,À Vista,137,31
+721,2024-01-31,Honda,CR-V,2016,111558,Financiamento,118,43
+722,2023-11-30,Chevrolet,S10,2023,120829,À Vista,151,48
+723,2023-01-20,Chevrolet,Cruze,2018,120926,Financiamento,96,21
+724,2024-12-06,Ford,Ranger,2023,80749,Leasing,223,42
+725,2023-03-14,Toyota,Corolla,2015,145230,Leasing,184,17
+726,2024-03-18,Hyundai,HB20,2023,101087,Leasing,179,2
+727,2023-07-13,Ford,Fiesta,2015,141484,Leasing,65,47
+728,2023-06-13,Honda,Civic,2021,93016,Financiamento,33,48
+729,2023-03-12,Chevrolet,Cruze,2019,146327,Leasing,125,3
+730,2024-07-17,Ford,Ranger,2022,107670,À Vista,49,1
+731,2023-11-16,Honda,Civic,2016,115963,Leasing,214,22
+732,2024-09-30,Hyundai,Tucson,2023,133117,Leasing,87,5
+733,2023-07-05,Hyundai,Elantra,2016,138588,Leasing,88,15
+734,2024-05-29,Chevrolet,Onix,2021,86191,À Vista,277,43
+735,2024-08-16,Ford,Ranger,2022,124741,Financiamento,281,7
+736,2023-03-12,Ford,Ranger,2016,109997,Financiamento,19,37
+737,2024-04-07,Ford,Fiesta,2023,89905,À Vista,94,18
+738,2024-04-19,Hyundai,Tucson,2019,96176,Financiamento,118,48
+739,2022-12-29,Ford,Fiesta,2023,91539,Financiamento,254,4
+740,2024-01-26,Chevrolet,Cruze,2015,113919,Financiamento,263,24
+741,2024-03-30,Ford,Focus,2019,92632,Financiamento,219,12
+742,2024-09-10,Ford,Ranger,2023,88799,Financiamento,20,12
+743,2024-07-14,Ford,Ranger,2021,86341,À Vista,81,22
+744,2023-08-14,Honda,Fit,2019,140821,Financiamento,117,29
+745,2024-08-12,Honda,Civic,2016,128172,À Vista,173,17
+746,2024-04-12,Chevrolet,Cruze,2019,98778,À Vista,67,4
+747,2024-11-15,Hyundai,HB20,2018,92434,Leasing,102,10
+748,2024-05-04,Ford,Ranger,2018,133488,Leasing,294,11
+749,2023-12-09,Chevrolet,Onix,2016,120358,Leasing,54,3
+750,2024-08-28,Honda,CR-V,2017,149485,À Vista,280,42
+751,2023-02-27,Chevrolet,Onix,2020,121826,Leasing,105,19
+752,2023-07-19,Ford,Fiesta,2016,89872,À Vista,63,43
+753,2023-03-08,Ford,Fiesta,2018,92138,Leasing,55,16
+754,2024-06-11,Chevrolet,Cruze,2015,123151,Leasing,42,12
+755,2024-10-13,Chevrolet,Cruze,2023,144763,À Vista,250,43
+756,2024-09-08,Ford,Fiesta,2021,114944,Leasing,187,9
+757,2024-01-09,Ford,Focus,2015,100527,Financiamento,17,18
+758,2024-09-01,Toyota,Corolla,2019,124349,Financiamento,229,25
+759,2024-03-29,Toyota,Hilux,2021,87207,Financiamento,157,42
+760,2024-03-20,Hyundai,Tucson,2017,131809,Financiamento,277,40
+761,2024-04-13,Hyundai,HB20,2021,129583,À Vista,238,12
+762,2024-09-07,Ford,Focus,2023,147567,Financiamento,185,11
+763,2023-12-07,Ford,Focus,2015,134338,Financiamento,106,35
+764,2024-04-30,Hyundai,Elantra,2022,90133,À Vista,243,45
+765,2023-04-24,Honda,Civic,2022,98006,À Vista,131,29
+766,2024-10-20,Toyota,Corolla,2020,142150,Financiamento,91,34
+767,2024-09-21,Honda,Civic,2022,112514,À Vista,2,45
+768,2023-10-26,Chevrolet,Cruze,2021,136055,Leasing,222,5
+769,2024-03-28,Chevrolet,Onix,2018,102612,À Vista,109,39
+770,2023-05-12,Ford,Ranger,2023,139276,Financiamento,123,40
+771,2023-05-18,Hyundai,Tucson,2017,114723,À Vista,61,6
+772,2023-08-30,Ford,Focus,2015,148570,Leasing,219,13
+773,2024-10-31,Honda,Civic,2020,89136,Leasing,233,31
+774,2023-09-23,Chevrolet,Cruze,2022,132449,À Vista,231,8
+775,2023-05-25,Toyota,Corolla,2016,104265,À Vista,252,44
+776,2024-10-18,Honda,CR-V,2020,145524,Leasing,134,37
+777,2023-11-26,Hyundai,Elantra,2020,97030,À Vista,176,47
+778,2024-10-10,Hyundai,HB20,2023,95041,Leasing,122,49
+779,2023-08-13,Honda,CR-V,2016,92338,À Vista,128,25
+780,2024-10-15,Ford,Ranger,2015,117823,Financiamento,39,36
+781,2024-01-21,Hyundai,Tucson,2020,120642,Leasing,200,12
+782,2024-11-04,Toyota,Yaris,2020,99410,Leasing,280,42
+783,2024-09-16,Chevrolet,Cruze,2017,109736,À Vista,32,32
+784,2024-10-29,Ford,Fiesta,2018,91715,Leasing,153,14
+785,2023-06-10,Hyundai,Elantra,2021,102200,Financiamento,29,28
+786,2024-05-14,Toyota,Corolla,2020,83987,Leasing,214,42
+787,2023-12-31,Ford,Fiesta,2019,124129,Financiamento,82,46
+788,2024-10-22,Chevrolet,Onix,2018,93169,À Vista,229,44
+789,2024-07-21,Honda,Civic,2018,111702,Leasing,257,26
+790,2023-02-02,Hyundai,Elantra,2023,84015,Financiamento,15,40
+791,2023-05-31,Toyota,Yaris,2017,136203,Financiamento,23,2
+792,2024-07-27,Hyundai,Tucson,2020,85543,Financiamento,76,17
+793,2023-06-25,Toyota,Corolla,2018,99397,Financiamento,59,32
+794,2023-09-07,Hyundai,Elantra,2016,107112,Leasing,199,35
+795,2023-06-28,Honda,Fit,2021,123409,Financiamento,139,34
+796,2024-04-03,Toyota,Hilux,2022,84827,Leasing,257,33
+797,2024-11-08,Honda,Civic,2018,93586,À Vista,161,33
+798,2023-08-13,Honda,Civic,2019,81639,À Vista,230,1
+799,2023-02-27,Ford,Focus,2016,106801,Financiamento,127,13
+800,2023-10-24,Toyota,Corolla,2016,140868,À Vista,117,11
+801,2024-12-04,Ford,Ranger,2019,103014,Leasing,106,41
+802,2023-04-30,Toyota,Corolla,2021,120951,Financiamento,263,29
+803,2023-11-09,Ford,Fiesta,2017,83033,Financiamento,33,23
+804,2023-07-08,Honda,CR-V,2015,140082,Leasing,285,31
+805,2024-08-12,Honda,Fit,2023,140668,Financiamento,268,43
+806,2023-01-19,Toyota,Corolla,2015,99529,Leasing,154,46
+807,2024-04-22,Honda,Civic,2015,145602,Financiamento,91,33
+808,2023-06-04,Ford,Focus,2022,82051,Leasing,47,17
+809,2022-12-15,Chevrolet,Onix,2020,115249,Leasing,230,4
+810,2023-12-05,Chevrolet,Cruze,2022,118016,Financiamento,59,43
+811,2023-01-03,Chevrolet,S10,2017,143144,Leasing,87,47
+812,2023-06-26,Chevrolet,Onix,2022,132456,À Vista,170,29
+813,2023-11-03,Hyundai,HB20,2020,91243,Financiamento,88,25
+814,2023-04-02,Ford,Focus,2022,86778,Financiamento,152,11
+815,2024-06-21,Toyota,Yaris,2017,99379,Leasing,161,28
+816,2024-10-23,Toyota,Hilux,2017,112656,À Vista,127,11
+817,2024-02-27,Ford,Focus,2021,137318,Leasing,78,46
+818,2023-11-04,Honda,CR-V,2023,113943,Financiamento,274,36
+819,2024-10-01,Ford,Ranger,2018,105977,Leasing,45,17
+820,2023-08-12,Toyota,Corolla,2018,137340,Leasing,163,5
+821,2024-05-01,Toyota,Yaris,2015,120557,Leasing,197,45
+822,2024-05-23,Hyundai,HB20,2022,86367,À Vista,249,45
+823,2024-02-28,Ford,Focus,2023,129482,Leasing,98,6
+824,2024-05-08,Hyundai,Elantra,2023,147278,Leasing,44,39
+825,2024-04-12,Honda,Civic,2016,130247,Financiamento,154,48
+826,2024-10-24,Ford,Fiesta,2017,93912,Leasing,132,3
+827,2024-11-09,Toyota,Yaris,2021,124934,À Vista,2,9
+828,2023-05-21,Ford,Ranger,2019,100313,Leasing,217,29
+829,2023-03-31,Hyundai,Tucson,2017,93261,Financiamento,39,16
+830,2024-03-14,Toyota,Corolla,2018,91785,Financiamento,239,24
+831,2023-10-31,Toyota,Hilux,2015,94863,À Vista,183,13
+832,2024-01-28,Honda,Fit,2023,118788,Leasing,153,16
+833,2023-04-25,Hyundai,HB20,2022,132065,Financiamento,118,36
+834,2023-11-16,Hyundai,Tucson,2017,117373,Leasing,139,35
+835,2024-09-06,Honda,CR-V,2019,103325,À Vista,283,35
+836,2024-03-31,Honda,Fit,2016,116670,Financiamento,248,14
+837,2023-02-18,Hyundai,Elantra,2018,133506,Leasing,36,8
+838,2024-08-05,Hyundai,Elantra,2018,135747,Financiamento,232,6
+839,2024-09-01,Hyundai,HB20,2020,85999,Financiamento,127,41
+840,2023-04-13,Toyota,Corolla,2016,89691,À Vista,192,43
+841,2023-03-18,Honda,Civic,2017,98788,Financiamento,228,2
+842,2024-04-17,Chevrolet,Cruze,2019,122074,À Vista,26,1
+843,2023-09-01,Hyundai,Elantra,2023,121488,Leasing,191,15
+844,2023-11-08,Ford,Fiesta,2017,92307,Financiamento,254,7
+845,2024-10-04,Honda,CR-V,2023,136879,À Vista,273,49
+846,2024-11-28,Hyundai,Tucson,2023,139373,Financiamento,143,42
+847,2023-08-05,Hyundai,Tucson,2015,104840,Financiamento,191,34
+848,2023-07-18,Toyota,Hilux,2019,102939,Financiamento,218,28
+849,2023-08-24,Ford,Ranger,2022,85639,Leasing,152,46
+850,2023-10-05,Honda,CR-V,2019,92283,Leasing,105,48
+851,2024-01-19,Honda,Civic,2017,124425,Leasing,264,25
+852,2023-07-04,Ford,Ranger,2019,83616,À Vista,11,49
+853,2024-10-14,Honda,Fit,2015,82211,À Vista,10,24
+854,2023-09-27,Honda,Civic,2019,100131,Financiamento,106,49
+855,2023-07-23,Honda,Civic,2015,83779,Financiamento,222,23
+856,2023-08-14,Ford,Ranger,2019,144461,Leasing,183,35
+857,2023-05-06,Toyota,Hilux,2022,147757,À Vista,128,46
+858,2023-03-24,Ford,Ranger,2016,121216,Leasing,212,5
+859,2023-11-21,Honda,CR-V,2015,94900,À Vista,153,25
+860,2024-11-28,Toyota,Yaris,2021,132048,Financiamento,21,28
+861,2023-03-09,Honda,Civic,2023,100474,Financiamento,170,50
+862,2023-08-20,Hyundai,Tucson,2019,119613,Financiamento,61,33
+863,2023-12-06,Toyota,Corolla,2016,109645,À Vista,269,1
+864,2024-02-01,Hyundai,Tucson,2015,94784,Leasing,139,30
+865,2023-01-10,Chevrolet,S10,2016,116081,Leasing,51,37
+866,2023-04-18,Honda,CR-V,2020,115145,Leasing,221,38
+867,2024-05-08,Ford,Fiesta,2022,135819,À Vista,267,5
+868,2023-04-25,Honda,Civic,2022,105864,Leasing,149,46
+869,2024-05-31,Ford,Ranger,2021,95812,Leasing,194,31
+870,2023-03-08,Toyota,Yaris,2017,113121,Financiamento,90,28
+871,2024-11-25,Ford,Ranger,2016,113813,Financiamento,9,37
+872,2024-11-16,Hyundai,Elantra,2021,120977,Leasing,158,34
+873,2024-01-18,Toyota,Yaris,2022,106580,À Vista,200,40
+874,2024-08-26,Honda,Civic,2018,125019,Financiamento,286,30
+875,2024-01-03,Hyundai,Tucson,2016,123388,À Vista,267,19
+876,2024-01-22,Chevrolet,Cruze,2021,135015,Financiamento,15,33
+877,2023-09-29,Toyota,Hilux,2020,141603,À Vista,197,2
+878,2023-08-08,Honda,CR-V,2023,127451,Leasing,201,18
+879,2024-08-01,Chevrolet,S10,2020,86001,À Vista,291,50
+880,2024-09-07,Chevrolet,S10,2016,121581,À Vista,56,37
+881,2023-03-07,Ford,Focus,2015,107434,À Vista,166,19
+882,2023-10-01,Toyota,Corolla,2015,129432,Financiamento,227,36
+883,2024-07-10,Hyundai,HB20,2022,119675,Financiamento,111,7
+884,2024-11-04,Chevrolet,Cruze,2023,135284,Financiamento,270,27
+885,2023-04-01,Toyota,Yaris,2021,102630,Leasing,261,14
+886,2023-07-14,Chevrolet,Onix,2015,139204,À Vista,247,22
+887,2023-06-21,Hyundai,Tucson,2019,99406,Leasing,219,14
+888,2024-01-09,Hyundai,Tucson,2019,82323,Leasing,129,43
+889,2024-07-05,Hyundai,Elantra,2016,130763,À Vista,80,44
+890,2024-09-22,Hyundai,Elantra,2022,100180,À Vista,223,34
+891,2023-11-10,Honda,CR-V,2018,132828,Financiamento,45,27
+892,2024-09-22,Toyota,Corolla,2022,149807,À Vista,73,38
+893,2024-03-06,Ford,Ranger,2019,141886,Financiamento,1,33
+894,2023-06-30,Honda,Civic,2019,147805,À Vista,94,22
+895,2024-11-19,Hyundai,Elantra,2021,83914,Financiamento,49,16
+896,2022-12-15,Chevrolet,Onix,2015,146432,Leasing,113,47
+897,2024-07-20,Chevrolet,Onix,2023,105086,Leasing,115,42
+898,2023-09-16,Chevrolet,S10,2022,90287,Leasing,293,32
+899,2022-12-13,Toyota,Yaris,2020,123838,Leasing,38,29
+900,2023-09-15,Toyota,Hilux,2016,141375,Financiamento,18,16
+901,2024-05-20,Hyundai,Tucson,2023,114859,Financiamento,216,36
+902,2023-10-17,Honda,CR-V,2017,143111,Financiamento,46,21
+903,2024-02-12,Hyundai,HB20,2016,88748,Financiamento,274,3
+904,2023-07-26,Chevrolet,Cruze,2023,132521,Financiamento,146,11
+905,2023-05-16,Honda,CR-V,2017,81891,À Vista,201,7
+906,2023-03-11,Toyota,Corolla,2016,111265,Leasing,116,23
+907,2024-02-08,Ford,Focus,2020,80867,À Vista,221,47
+908,2023-10-09,Ford,Fiesta,2021,140224,À Vista,139,49
+909,2023-10-05,Chevrolet,S10,2021,90516,À Vista,7,11
+910,2023-05-11,Hyundai,Elantra,2018,94194,Financiamento,264,29
+911,2023-07-15,Hyundai,Tucson,2021,101916,Financiamento,186,48
+912,2022-12-29,Ford,Focus,2019,113749,Financiamento,257,33
+913,2023-08-16,Hyundai,HB20,2022,138016,À Vista,223,14
+914,2023-02-20,Chevrolet,Cruze,2022,131873,Financiamento,288,3
+915,2023-02-06,Ford,Fiesta,2018,91053,À Vista,58,6
+916,2024-07-13,Chevrolet,S10,2017,82015,À Vista,199,34
+917,2023-11-24,Honda,CR-V,2023,149962,À Vista,24,42
+918,2024-02-28,Hyundai,Tucson,2022,133061,Financiamento,68,6
+919,2023-08-20,Hyundai,HB20,2023,111422,Leasing,296,12
+920,2024-01-26,Toyota,Yaris,2021,104971,Financiamento,96,34
+921,2023-01-06,Honda,Civic,2015,97948,Leasing,172,46
+922,2024-12-04,Honda,Civic,2016,136466,Financiamento,233,36
+923,2023-04-10,Chevrolet,Cruze,2022,125483,Financiamento,5,44
+924,2023-09-15,Ford,Ranger,2015,88025,Financiamento,215,42
+925,2023-01-03,Chevrolet,S10,2018,124143,Leasing,71,44
+926,2022-12-27,Toyota,Corolla,2015,110494,Financiamento,230,32
+927,2024-05-07,Honda,Fit,2018,112602,À Vista,245,20
+928,2024-05-18,Hyundai,Elantra,2016,107159,Financiamento,29,30
+929,2023-11-25,Chevrolet,S10,2019,140194,À Vista,87,40
+930,2024-10-05,Honda,CR-V,2023,134787,Leasing,266,8
+931,2024-07-23,Honda,Civic,2021,100615,Financiamento,133,49
+932,2023-06-11,Ford,Ranger,2018,121925,À Vista,199,8
+933,2023-12-25,Chevrolet,Onix,2019,119974,Leasing,205,24
+934,2024-06-07,Hyundai,Elantra,2016,90527,À Vista,222,7
+935,2024-01-02,Honda,CR-V,2021,114259,À Vista,266,36
+936,2023-06-14,Ford,Focus,2022,109733,Leasing,129,23
+937,2023-08-06,Ford,Ranger,2018,142871,Financiamento,62,26
+938,2024-09-06,Honda,CR-V,2016,136721,Financiamento,43,26
+939,2024-10-01,Chevrolet,S10,2023,107336,Leasing,243,32
+940,2023-10-20,Chevrolet,Cruze,2020,131446,Financiamento,158,21
+941,2023-03-10,Ford,Focus,2016,123361,À Vista,232,33
+942,2023-08-06,Hyundai,HB20,2016,93441,À Vista,124,46
+943,2023-04-18,Chevrolet,Onix,2015,109886,Financiamento,235,30
+944,2023-07-16,Honda,Civic,2021,107501,À Vista,268,30
+945,2024-08-31,Chevrolet,Cruze,2019,138967,À Vista,30,22
+946,2024-04-01,Ford,Focus,2022,120146,Leasing,6,25
+947,2024-07-02,Toyota,Corolla,2022,112752,Leasing,277,42
+948,2023-01-22,Ford,Focus,2016,146724,Financiamento,10,22
+949,2023-05-22,Hyundai,Elantra,2015,128529,Financiamento,93,50
+950,2023-08-01,Toyota,Corolla,2018,90965,Financiamento,240,25
+951,2023-03-21,Toyota,Hilux,2018,116636,Leasing,35,9
+952,2023-06-08,Ford,Fiesta,2019,149211,Leasing,203,41
+953,2023-12-07,Chevrolet,Cruze,2016,89309,Financiamento,34,20
+954,2023-01-07,Honda,Civic,2023,144330,Leasing,203,36
+955,2023-01-12,Chevrolet,S10,2015,111226,À Vista,233,15
+956,2023-06-02,Ford,Focus,2015,82767,À Vista,192,43
+957,2024-05-15,Toyota,Corolla,2020,88730,Leasing,93,43
+958,2023-12-17,Hyundai,Tucson,2016,82763,À Vista,174,40
+959,2024-04-16,Honda,CR-V,2015,124816,Leasing,168,15
+960,2023-12-31,Chevrolet,S10,2019,95435,Financiamento,75,4
+961,2024-10-22,Honda,Civic,2023,127889,Financiamento,155,12
+962,2023-04-23,Toyota,Yaris,2023,119925,Financiamento,39,17
+963,2024-09-02,Chevrolet,S10,2023,141342,Financiamento,96,34
+964,2024-01-08,Toyota,Corolla,2017,136106,À Vista,235,38
+965,2024-09-25,Honda,CR-V,2016,122299,À Vista,83,11
+966,2024-05-23,Hyundai,Elantra,2020,82998,À Vista,276,22
+967,2023-02-14,Ford,Fiesta,2022,101678,Leasing,174,38
+968,2023-09-01,Chevrolet,S10,2023,80015,Financiamento,217,43
+969,2024-02-08,Hyundai,Elantra,2018,123424,Leasing,55,6
+970,2023-02-28,Hyundai,HB20,2015,100673,Financiamento,27,8
+971,2024-09-21,Honda,Fit,2021,149384,Leasing,97,50
+972,2023-02-04,Toyota,Hilux,2019,85253,Leasing,264,33
+973,2024-11-15,Chevrolet,Cruze,2015,122270,À Vista,51,47
+974,2023-07-04,Ford,Fiesta,2018,148652,À Vista,144,11
+975,2024-05-15,Honda,Fit,2018,89818,Leasing,162,1
+976,2023-04-20,Hyundai,Elantra,2017,94711,Financiamento,71,3
+977,2024-11-20,Honda,Fit,2018,145790,Leasing,222,19
+978,2023-09-26,Toyota,Hilux,2015,120001,Financiamento,250,4
+979,2022-12-21,Chevrolet,Cruze,2022,107298,Financiamento,109,32
+980,2023-09-25,Hyundai,Tucson,2021,86990,Financiamento,75,18
+981,2023-03-13,Toyota,Hilux,2018,81925,Financiamento,19,10
+982,2024-05-25,Hyundai,HB20,2020,101922,Leasing,260,7
+983,2024-03-21,Toyota,Corolla,2018,91295,Financiamento,68,20
+984,2023-04-03,Honda,Civic,2018,117667,Financiamento,44,28
+985,2024-09-12,Chevrolet,S10,2016,102295,Leasing,246,50
+986,2023-06-22,Honda,CR-V,2017,126917,À Vista,39,3
+987,2023-11-23,Hyundai,Elantra,2020,94251,Financiamento,141,42
+988,2023-10-21,Hyundai,Elantra,2017,80718,À Vista,285,24
+989,2024-11-06,Ford,Fiesta,2018,120567,Financiamento,235,12
+990,2023-08-05,Ford,Focus,2017,134062,À Vista,191,35
+991,2023-04-09,Chevrolet,S10,2022,98531,Leasing,32,33
+992,2022-12-29,Chevrolet,Onix,2019,105047,Leasing,2,44
+993,2024-03-09,Toyota,Hilux,2022,86802,Financiamento,235,5
+994,2023-06-09,Hyundai,Elantra,2018,106271,À Vista,50,45
+995,2024-03-20,Toyota,Hilux,2015,81267,À Vista,300,16
+996,2024-10-02,Chevrolet,S10,2018,117598,Leasing,77,15
+997,2023-10-11,Ford,Focus,2015,124606,À Vista,81,11
+998,2024-07-04,Hyundai,Elantra,2020,93186,Leasing,39,29
+999,2024-04-07,Chevrolet,Onix,2015,135641,Financiamento,62,40
+1000,2024-09-09,Toyota,Yaris,2016,136996,Leasing,46,32
