@@ -1,0 +1,35 @@
+1. O que são tabelas de fatos agregados e como elas diferem das tabelas de fatos
+detalhadas? Traga um exemplo prático.
+Explique o conceito de granularidade em um modelo dimensional.
+2. Como a granularidade afeta o design das tabelas de fatos?
+3. 3.Como funcionam as hierarquias de dimensões e quais são os principais tipos? Dê
+exemplos de hierarquias em uma dimensão de tempo.
+4. O que é uma dimensão degenerada? Em que situação é útil utilizá-la?
+5. Quais são os principais tipos de fatos em uma tabela de fatos e como eles são
+aplicados em projetos de Data Warehouse?
+6. Explique o conceito de dimensão junk e em que casos ela pode ser vantajosa. Traga
+um exemplo prático.
+7. Como funcionam as tabelas de dimensão SCD (Slowly Changing Dimensions) e
+quais são os tipos mais comuns? Dê exemplos para cada tipo.
+8. O que é uma tabela de ponte (bridge table) e como ela resolve problemas de
+relacionamento muitos-para-muitos em modelos dimensionais?
+9. Qual a importância das tabelas de referência cruzada (ou lookup tables) e como elas
+facilitam o uso de tabelas de dimensão?
+10. Como o modelo dimensional é adaptado para atender a análise OLAP e qual o papel
+do cubo OLAP nesse contexto?
+11. Qual a principal diferença estrutural entre os modelos estrela e snowflake? Dê
+exemplos ilustrando essas diferenças.
+12. Explique as vantagens e desvantagens do modelo estrela em relação ao modelo
+snowflake em termos de desempenho e facilidade de compreensão.
+13. Em que tipo de cenário o modelo snowflake seria mais adequado que o modelo
+estrela? Justifique sua resposta com exemplos práticos.
+
+
+
+--------------------------------------------------------------------------------
+1 - R: Tabelas fato agregadas são usadas ​​em modelos dimensionais do data warehouse para produzir um resumo de informações pré-calculadas, as agregações geralmente são pré-computadas podendo ser carregada diretamente da fonte de dados ou da tabela fato transacional alterando a granularidade para um nível mais alto. Com os dados resumidos carregados na tabela agregada o volume de dados é menor obtendo-se um ganho de performance considerável nas consultas comparado com um fato transacional.
+Fonte: MentorsTec https://www.mentorstec.com.br/post/conceitos-de-tabelas-dimens%C3%A3o-e-fato-na-constru%C3%A7%C3%A3o-do-data-warehouse
+
+2 - R: 
+
+3 - R: 
